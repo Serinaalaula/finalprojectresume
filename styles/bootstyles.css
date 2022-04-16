@@ -1,0 +1,18 @@
+body{
+    background-color: azure; 
+    resize:both; 
+}
+
+.headCenter{
+    text-align:center;
+}
+
+.TabLeft{
+    padding-left: 100px;
+    padding-right: 110px;
+}
+
+.margins{
+    padding-left: 100px;
+    padding-right: 100px;}
+        
